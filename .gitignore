@@ -1,4 +1,5 @@
 *~
+*.swp
 node_modules
 debug
 config/auth.js
